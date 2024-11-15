@@ -77,7 +77,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
   botname : process.env.BOT_NAME  || "Suhail-XMD",
-  ownername:process.env.OWNER_NAME|| "𝔏𝔦𝔩 𝔖𝔞𝔳𝔞𝔤𝔢",
+  ownername:process.env.OWNER_NAME|| "STRIKERBOY",
 
 
   errorChat : process.env.ERROR_CHAT || "",
